@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yha2682
 - 👀 I’m interested in ... SpringBoot
 - 🌱 I’m currently learning ... SpringBoot
-- 💞️ I’m looking to collaborate on ... SpringBoot
+- 💞️ I’m looking to collaborate on ... no
 - 📫 How to reach me ... no
 - 😄 Pronouns: ... no
 - ⚡ Fun fact: ... good day
